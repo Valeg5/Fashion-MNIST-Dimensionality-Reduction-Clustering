@@ -2,7 +2,7 @@
 
 ## Authors
 * **Valentinos Goudas**
-* * **Olga Saridou**
+* **Olga Saridou**
 * **Eleni Georgoudi**
 * **Thrasyvoulos Vasdavanos**
 
